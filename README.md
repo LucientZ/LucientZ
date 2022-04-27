@@ -1,1 +1,1 @@
-Hello and welcome to my github page! However you got here, 
+Hello and welcome to my github page! However you got here, I welcome you.
