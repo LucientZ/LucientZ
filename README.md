@@ -14,6 +14,7 @@ Hi, my name is Robert Cook. I'm a very passionate developer that loves to learn 
 | ------------                                                     | -----------                                                                                 |
 | [Discord Bot](https://github.com/LucientZ/DiscordPyBot)          | Discord Bot used for entertainment and moderation                                           |
 | [Frame Ripper](https://github.com/LucientZ/YouTube-Frame-Ripper) | Converts frames from YouTube to text art                                                    |
+| TamuSHPE App                                                     | React Native application for TAMU SHPE                                                      |
 | [Web Application](https://github.com/LucientZ/web-application)   | Web Application where users can submit images to be displayed on a large wall of cards (WIP)|
 
 ## Some of my Skills
