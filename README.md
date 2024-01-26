@@ -30,5 +30,7 @@ Hi, my name is Robert Cook. I'm a very passionate developer that loves to learn 
 
 - Digital Art
 
+---
+
 # For The Average Passerby
 What's up, I'm LucienZ. You may have seen me by other names (ex: LucientZ, Lucients, etc...) but the regular spelling is LucienZ (Pronounced loo-shents). A lot of the projects here have spikes in activity because I randomly get ideas and hyperfocus on completing them for about 2 weeks most of the time. If something has been developed for longer than that, then that means it's a project I truly care about. 
