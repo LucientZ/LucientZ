@@ -10,12 +10,13 @@ Hi, my name is Robert Cook. I'm a very passionate developer that loves to learn 
 
 ## Projects I'm Proud of:
 
-| Project Name                                                     | Description                                                                                 |
-| ------------                                                     | -----------                                                                                 |
-| [TamuSHPE App](https://github.com/TAMUSHPE/MobileApp)            | React Native application for TAMU SHPE                                                      |
-| [Discord Bot](https://github.com/LucientZ/DiscordPyBot)          | Discord Bot used for entertainment and moderation                                           |
-| [Frame Ripper](https://github.com/LucientZ/YouTube-Frame-Ripper) | Converts frames from YouTube to text art                                                    |
-| [Web Application](https://github.com/LucientZ/web-application)   | Express web application where users can submit posts to a Mongo Database                    |
+| Project Name                                                                | Description                                                                                 |
+| ------------                                                                | -----------                                                                                 |
+| [TamuSHPE App](https://github.com/TAMUSHPE/MobileApp)                       | React Native application for TAMU SHPE                                                      |
+| [Discord Bot](https://github.com/LucientZ/DiscordPyBot)                     | Discord Bot used for entertainment and moderation                                           |
+| [Frame Ripper](https://github.com/LucientZ/YouTube-Frame-Ripper)            | Converts frames from YouTube to text art                                                    |
+| [Web Application](https://github.com/LucientZ/web-application)              | Express web application where users can submit posts to a Mongo Database                    |
+| [Bad Apple on a Discord Bot](https://www.youtube.com/watch?v=HWIbUDLiNBs)   | Played Bad Apple on a Discord Bot with Unicode block characters                             |
 
 ## Some of my Skills
 - Programming/Markup languages
