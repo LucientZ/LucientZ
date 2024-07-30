@@ -6,7 +6,7 @@ Hello and welcome to my GitHub page! However you got here, I welcome you.
 
 
 # For Employers
-Hi, my name is Robert Cook. I'm a very passionate developer that loves to learn how to do things related to web development, art and design, and music. I am currently studying Computer Science in University and planning on graduating in 2025 with a Bachelor's degree. While a lot of my knowledge is from school, I usually self-teach myself anything I'm interested in. I'm currently looking for an internship opportunity for the summer of 2025.
+Hi, my name is Robert Cook. I'm a very passionate developer that loves to learn how to do things related to web development, art and design, and music. I am currently studying Computer Science in University and planning on graduating in 2025 with a Bachelor's degree. While a lot of my knowledge is from school, I usually self-teach myself anything I'm interested in. I'm currently looking for an internship opportunity for the summer of 2026.
 
 ## Projects I'm Proud of:
 
