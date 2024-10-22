@@ -22,7 +22,7 @@ Hi, my name is Robert Cook. I'm a very passionate developer that loves to learn 
 
 ## Some of my Skills
 - Programming/Markup languages
-    - Python | Javascript/Typescript | C++ | Java | R | LaTeX | HTML | CSS | Markdown | Haskell
+    - Python | Javascript/Typescript | x86-64 | C++ | Java | R | LaTeX | HTML | CSS | Markdown | Haskell
 
 - Software Proficiency
     - Git | VSCode | Docker | Audacity | Krita | Musescore | Gimp | Node
