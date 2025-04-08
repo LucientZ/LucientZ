@@ -19,7 +19,7 @@ Hi, my name is Robert Cook. I'm a very passionate developer that loves to learn 
 | [Frame Ripper](https://github.com/LucientZ/YouTube-Frame-Ripper)                           | Converts frames from YouTube to text art                                                    |
 | [Bad Apple on a Discord Bot](https://www.youtube.com/watch?v=HWIbUDLiNBs)                  | Played Bad Apple on a Discord Bot with Unicode block characters                             |
 | [Web Application](https://github.com/LucientZ/web-application)                             | Express web application where users can submit posts to a Mongo Database                    |
-| [The Toybox](https://github.com/LucientZ/the-toybox)                                       | Random code snippets made in about an hour or so                                            |
+| [The Toybox](https://github.com/LucientZ/the-toybox)                                       | Everything I find interesting including code snippets and CTF writeups                      |
 
 ## Some of my Skills
 - Programming/Markup languages
