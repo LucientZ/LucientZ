@@ -12,7 +12,7 @@ Hi, my name is Robert Cook. I'm a very passionate developer that loves to learn 
 
 | Project Name                                                                               | Description                                                                                 |
 | ------------                                                                               | -----------                                                                                 |
-| [VTubasic](https://github.com/LucientZ/vtubasic)                                           | Implementation of real-tim puppet animation                                                 |
+| [VTubasic](https://github.com/LucientZ/vtubasic)                                           | Implementation of real-time puppet animation                                                 |
 | [TamuSHPE App](https://github.com/TAMUSHPE/MobileApp)                                      | React Native application for TAMU SHPE                                                      |
 | [Browser Boy](https://github.com/LucientZ/browser-boy)                                     | In-Browser gameboy emulator                                                                 |
 | [Golang Wiki](https://github.com/LucientZ/go-wiki)                                         | Basic Wiki with a custom markdown parser                                                    |
