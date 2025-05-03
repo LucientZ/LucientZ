@@ -12,7 +12,7 @@ Hi, my name is Robert Cook. I'm a very passionate developer that loves to learn 
 
 | Project Name                                                                               | Description                                                                                 |
 | ------------                                                                               | -----------                                                                                 |
-| [VTubasic](https://github.com/LucientZ/vtubasic)                                           | Implementation of real-time puppet animation                                                 |
+| [VTubasic](https://github.com/LucientZ/vtubasic)                                           | Implementation of real-time puppet animation                                                |
 | [TamuSHPE App](https://github.com/TAMUSHPE/MobileApp)                                      | React Native application for TAMU SHPE                                                      |
 | [Browser Boy](https://github.com/LucientZ/browser-boy)                                     | In-Browser gameboy emulator                                                                 |
 | [Golang Wiki](https://github.com/LucientZ/go-wiki)                                         | Basic Wiki with a custom markdown parser                                                    |
@@ -21,17 +21,16 @@ Hi, my name is Robert Cook. I'm a very passionate developer that loves to learn 
 | [The Toybox](https://github.com/LucientZ/the-toybox)                                       | Everything I find interesting including code snippets and CTF writeups                      |
 
 ## Some of my Skills
-- Programming/Markup languages
-    - Python | Javascript/Typescript | x86-64 | C++ | Java | R | LaTeX | HTML | CSS | Markdown | Haskell
 
+- Programming/Markup languages
+    - Python | Javascript/Typescript | x86-64 | C/C++ | C# | Java | R | LaTeX | HTML | CSS | Markdown | Haskell
 - Software Proficiency
     - Git | VSCode | Docker | Audacity | Krita | Musescore | Gimp | Node
-
 - Windows | Linux/Unix
-
 - Audio/Video Editing
-
 - Digital Art
+- Graphics Programming
+- Reverse Engineering
 
 ---
 
